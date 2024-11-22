@@ -1,6 +1,7 @@
 # MASTS5112-PART3
 MASTS5112-POE-PART3
-What i changed on the code, Problems i have faced and Installing Dependecies Guide
+What i changed on the code, Problems i have faced and Installing Dependecies Guide.
+The code is on the master branch.
 
 Good day, welcome to the Urban Bites Restaurant. 
 
@@ -22,3 +23,5 @@ Now on part 3, i did as instructed. What i did on my code was to add the "remove
 I created new files, "the filter menu screen, Menu Items Add Sreen".
 
 Challenges i have faced were being able to make the code run. I have tried many ways, made my researches on how to fix a certain error but it was not successful, either i made things worse or still the same no changes. 
+
+The code is under the "master branch".
